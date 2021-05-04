@@ -17,7 +17,7 @@ root.resizable(0,0)
 def make_image():
     global jpimage #Image should be set as global variable for it to get displayed from within a function
     # For working with jpeg files you need additional libraries. Pillow needs to be installed
-    jpimage = ImageTk.PhotoImage(Image.open('D:/All_Git_Projects/Udemy_Art_of_Doing/Basics/dog.jpg').resize((260,300),Image.ANTIALIAS))
+    jpimage = ImageTk.PhotoImage(Image.open('dog.jpg').resize((260,300),Image.ANTIALIAS))
     # Using pillow and image to work with jpeg files
     dog_label = tkinter.Label(root, image = jpimage)
     dog_label.pack()

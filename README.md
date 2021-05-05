@@ -45,8 +45,8 @@ Click here for [Course URL](https://www.udemy.com/course/the-art-of-doing-create
 ### **Apps Completed** - 
 * [X] App 1
 * [X] App 2
-* [ ] App 3
-* [ ] App 4
+* [X] App 3
+* [X] App 4
 * [ ] App 5
 * [ ] App 6
 * [ ] App 7

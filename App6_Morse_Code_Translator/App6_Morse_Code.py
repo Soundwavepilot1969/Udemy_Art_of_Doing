@@ -58,7 +58,6 @@ def convert_to_morse():
 
     output_text.insert("1.0",morse_code)
 
-
 def convert_to_english():
     '''Convert Morse Code Message to English'''
     english="" #To store english

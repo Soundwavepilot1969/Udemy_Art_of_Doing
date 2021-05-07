@@ -49,7 +49,7 @@ Click here for [Course URL](https://www.udemy.com/course/the-art-of-doing-create
 * [X] App 4
 * [X] App 5
 * [X] App 6
-* [ ] App 7
+* [X] App 7
 * [ ] App 8
 * [ ] App 9
 * [ ] App 10

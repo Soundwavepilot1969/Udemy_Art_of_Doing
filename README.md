@@ -50,9 +50,9 @@ Click here for [Course URL](https://www.udemy.com/course/the-art-of-doing-create
 * [X] App 5
 * [X] App 6
 * [X] App 7
-* [ ] App 8
+* [X] App 8
 * [X] App 9
-* [ ] App 10
+* [X] App 10
 
 ### **Contributors**
 <!--Tables -->
